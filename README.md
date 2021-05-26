@@ -49,14 +49,15 @@
   * End Date:  9/14/2021
   * Duration:  14 weeks
 
-### Budget 
-   *  The total cost estimation amount is : $84280.
-   
+### Budget
+   * The total project value is around $20000 for the project, for Initial relase we are expecting $10000, Once the project is completed  the total budget will be $20K
+   *  Eighty four two hundred eighty Thousand Dollars
+    
 
 ### Scope Suggestions
    * Tourist Locations
-   1. places to visit
-   2. Motels at that locations
+     1. places to visit
+     2. Motels at that locations
    
   * Transportations
     1. Roadway with prices
