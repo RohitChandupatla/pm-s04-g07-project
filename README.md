@@ -63,13 +63,15 @@
 * 4.1 Checking for issues
 
 #### 5. Closing
-* 5.1 Review, Feedback 
+* 5.1 Review
 * 5.2 Completion
 
 ### Schedule
-  * Start Date: 6/26/2021 
-  * End Date:  9/14/2021
+  * Start Date: 5/26/2021 
+  * End Date:  10/8/2021
   * Duration:  14 weeks
+  
+  <img src="/schedule/schedule.PNG" alt="Schedule1"/>
     
 ### Budget
      1. Total Project Value: $80,000 <br>
