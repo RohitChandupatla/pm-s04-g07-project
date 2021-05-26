@@ -8,8 +8,7 @@
 
 ### Our Project
   * Tourism and Travel Management 
-  
- <br> <p> This web application allows users to book tickets to desired destinations and and guide them to find the best places to visit. Users can search their tickets with different prices from high to low or low to high satisfying their needs. </p>
+   <br> <p> This web application allows users to book tickets to desired destinations and and guide them to find the best places to visit. Users can search their tickets with different prices from high to low or low to high satisfying their needs. </p>
 
 ### Our Team
 
@@ -40,29 +39,37 @@
   * Link to CHARTER.md
 
 ### Scope
-   1. Initiation 2. Planning 3.Executing 4. Monitoring and controlling 5. Closing
-  *  WBS tree structure
-  *  WBS schedule
-  *  costs
+#### 1. Intiating
+* 1.1 Identify Stakeholders
+* 1.2 Defining objectives
+* 1.3 Developing project charter
+* 1.4 Taking approval for project charter
+* 1.5 Selecting the team
 
-### Scope Suggestions
-   * Tourist Locations
-     1. places to visit
-     2. Motels at that locations
-   
-  * Transportations
-    1. Roadway with prices
-    2. Railway with prices
-    3. Airways with prices
-   
-  * Services and purposes
-    1. Holidays
-    2. Regular Days
-    3. Business Days
+#### 2. Planning
+* 2.1 developing project plans
+* 2.2 Getting approval for project plan
+* 2.3 Designing the budget
+* 2.4 writing timelines
+* 2.5 Getting approval for budget
 
-  * Offer and Deals
-    1. Weekend offers
-    2. Family packages
+#### 3. Execution
+* 3.1 Gather Requirements
+* 3.2 Gather required hardware and software
+* 3.3 Set up the work environment
+* 3.4 Designing the template of the web app
+* 3.5 Developing front end
+* 3.6 Developing back end
+* 3.7 Connecting the database
+* 3.8 Testing
+
+#### 4. Monitoring and Controlling
+* 4.1 Checking for issues
+* 4.2 QA Testing
+
+#### 5. Closing
+* 5.1 Review, Feedback and Appreciation
+* 5.2 Project Completion
 
 ### Schedule
   * Start Date: 6/26/2021 
