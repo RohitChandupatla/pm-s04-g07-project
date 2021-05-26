@@ -41,35 +41,30 @@
 ### Scope
 #### 1. Intiating
 * 1.1 Identify Stakeholders
-* 1.2 Defining objectives
-* 1.3 Developing project charter
-* 1.4 Taking approval for project charter
-* 1.5 Selecting the team
+* 1.2 Define objectives
+* 1.3 Develop charter
+* 1.4 Taking approval for charter
 
 #### 2. Planning
-* 2.1 developing project plans
-* 2.2 Getting approval for project plan
-* 2.3 Designing the budget
-* 2.4 writing timelines
-* 2.5 Getting approval for budget
+* 2.1 Develop project plans
+* 2.2 Budget Estimation
+* 2.3 Service Line Agreements
+* 2.4 Approvals
 
 #### 3. Execution
 * 3.1 Gather Requirements
-* 3.2 Gather required hardware and software
-* 3.3 Set up the work environment
-* 3.4 Designing the template of the web app
-* 3.5 Developing front end
-* 3.6 Developing back end
-* 3.7 Connecting the database
+* 3.2 Hardware and software resources
+* 3.3 Design template for web app
+* 3.5 Developing front end and backend
+* 3.6 Database/cloud connection
 * 3.8 Testing
 
 #### 4. Monitoring and Controlling
 * 4.1 Checking for issues
-* 4.2 QA Testing
 
 #### 5. Closing
-* 5.1 Review, Feedback and Appreciation
-* 5.2 Project Completion
+* 5.1 Review, Feedback 
+* 5.2 Completion
 
 ### Schedule
   * Start Date: 6/26/2021 
