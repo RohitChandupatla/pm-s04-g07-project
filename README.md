@@ -7,8 +7,8 @@
   * Budget 
 
 ### Our Project
-  ## Tourism and Travel Management 
- <br> <p> This web application allows users to book tickets to desired destinations and and guide them to find the best places to visit. Users can search their tickets with different prices from high to low or low to high satisfying their needs. </p>
+  * Tourism and Travel Management 
+   <br> <p> This web application allows users to book tickets to desired destinations and and guide them to find the best places to visit. Users can search their tickets with different prices from high to low or low to high satisfying their needs. </p>
 
 ### Our Team
 
@@ -39,43 +39,42 @@
   * Link to CHARTER.md
 
 ### Scope
-   1. Initiation 2. Planning 3.Executing 4. Monitoring and controlling 5. Closing
-  *  WBS tree structure
-  *  WBS schedule
-  *  costs
+#### 1. Intiating
+* 1.1 Identify Stakeholders
+* 1.2 Define objectives
+* 1.3 Develop charter
+* 1.4 Taking approval for charter
+
+#### 2. Planning
+* 2.1 Develop project plans
+* 2.2 Budget Estimation
+* 2.3 Service Line Agreements
+* 2.4 Approvals
+
+#### 3. Execution
+* 3.1 Gather Requirements
+* 3.2 Hardware and software resources
+* 3.3 Design template for web app
+* 3.5 Developing front end and backend
+* 3.6 Database/cloud connection
+* 3.8 Testing
+
+#### 4. Monitoring and Controlling
+* 4.1 Checking for issues
+
+#### 5. Closing
+* 5.1 Review, Feedback 
+* 5.2 Completion
 
 ### Schedule
   * Start Date: 6/26/2021 
   * End Date:  9/14/2021
   * Duration:  14 weeks
-
+    
 ### Budget
-   * The total project value is around $20000 for the project, for Initial relase we are expecting $10000, Once the project is completed  the total budget will be $20K
-   *  Eighty four two hundred eighty Thousand Dollars
-    
+     1. Total Project Value: $80,000 <br>
+     2. Total Project Cost: $64,750 <br>
+     3. Estimated Profit:  $15,250 <br>
 
-### Scope Suggestions
-   * Tourist Locations
-     1. places to visit
-     2. Motels at that locations
-   
-  * Transportations
-    1. Roadway with prices
-    2. Railway with prices
-    3. Airways with prices
-   
-  * Services and purposes
-    1. Holidays
-    2. Regular Days
-    3. Business Days
+<img src="/Budget/Budget.PNG" alt="Project Budget"/>
 
-  * Offer and Deals
-    1. Weekend offers
-    2. Family packages
-    
-  * Budget
-     1. Total Project Value: $80,000
-     2. Total Project Cost: $64,750
-     3. Estimated Profit:  $15,250
-
-<img src="Budget.PNG" alt="drawing" width="150" style="border-radius:50%" /> <br/>
