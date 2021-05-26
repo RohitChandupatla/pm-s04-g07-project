@@ -74,9 +74,9 @@
   <img src="/schedule/schedule.PNG" alt="Schedule1"/>
     
 ### Budget
-     1. Total Project Value: $80,000 <br>
-     2. Total Project Cost: $64,750 <br>
-     3. Estimated Profit:  $15,250 <br>
+     1. Total Project Value: $80,000 
+     2. Total Project Cost: $64,750 
+     3. Estimated Profit:  $15,250 
 
 <img src="/Budget/Budget.PNG" alt="Project Budget"/>
 
