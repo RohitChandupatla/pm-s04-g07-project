@@ -44,16 +44,6 @@
   *  WBS schedule
   *  costs
 
-### Schedule
-  * Start Date: 6/26/2021 
-  * End Date:  9/14/2021
-  * Duration:  14 weeks
-
-### Budget
-   * The total project value is around $20000 for the project, for Initial relase we are expecting $10000, Once the project is completed  the total budget will be $20K
-   *  Eighty four two hundred eighty Thousand Dollars
-    
-
 ### Scope Suggestions
    * Tourist Locations
      1. places to visit
@@ -72,10 +62,16 @@
   * Offer and Deals
     1. Weekend offers
     2. Family packages
+
+### Schedule
+  * Start Date: 6/26/2021 
+  * End Date:  9/14/2021
+  * Duration:  14 weeks
     
-  * Budget
+### Budget
      1. Total Project Value: $80,000
      2. Total Project Cost: $64,750
      3. Estimated Profit:  $15,250
 
-<img src="Budget.PNG" alt="drawing" width="150" style="border-radius:50%" /> <br/>
+![Budget](/budget/Budget.PNG)
+
