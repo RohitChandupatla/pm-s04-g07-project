@@ -18,7 +18,7 @@
   <img src="Akanksha.jpg" alt="drawing" width="150" style="border-radius:50%" /> <br/>
 
 
-  * Sathya Mamidala 
+  * Sri Sathya Mamidala 
   
 
   <img src="sathya.jpeg" alt="drawing" width="150" style="border-radius:50%" />  <br/>
