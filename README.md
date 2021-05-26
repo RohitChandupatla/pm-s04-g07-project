@@ -7,7 +7,7 @@
   * Budget 
 
 ### Our Project
-  * Tourism and Travel Management 
+  ## Tourism and Travel Management 
  <br> <p> This web application allows users to book tickets to desired destinations and and guide them to find the best places to visit. Users can search their tickets with different prices from high to low or low to high satisfying their needs. </p>
 
 ### Our Team
@@ -73,14 +73,9 @@
     1. Weekend offers
     2. Family packages
     
-  * Budgets
-     1. Total cost for trip
-     2. cost after applying coupons
-     3. Final Budget
-  
- ### Cost Suggestions
-   * Initial Excel file (used for screenshots)
+  * Budget
+     1. Total Project Value: $80,000
+     2. Total Project Cost: $64,750
+     3. Estimated Profit:  $15,250
 
-### Schedule Suggestions
-
-   * Schedule folder with your initial project
+<img src="Budget.PNG" alt="drawing" width="150" style="border-radius:50%" /> <br/>
