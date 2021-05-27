@@ -36,7 +36,7 @@
   <img src="Ajay.jfif" alt="drawing" width="150" style="border-radius:50%" /> <br/>
 
 ### Project Charter
-  * Link to CHARTER.md
+  - [Click here to view our Project Charter](/Charter.md)
 
 ### Scope
 #### 1. Intiating
