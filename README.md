@@ -1,11 +1,13 @@
 # pm-s04-g07-project
 ## Table of contents
-   * Our Project 
-   * Our Team 
-   * Project Charter
-   * Scope 
-   * Schedule 
-   * Budget 
+| Table of contents |
+|-------------------|
+| Our Project       |
+| Our Team          |
+| Project Charter   |
+| Scope             |
+| Schedule          |
+| Budget            |
 
 ### Our Project 
   ##   Tourism and Travel Management 
