@@ -10,7 +10,7 @@
 
 <hr/>
 
-**Project Objectives:** The major objective of the project is to implement a application where users can able to manage the Travel plans
+**Project Objectives:** The major objective of the project is to implement a application where users can able to manage the Travel plans as they wish.
 
 <hr/>
 
@@ -18,7 +18,7 @@
 
 <hr/>
 
-**Approach:** The main objective is to complete the project on time and on budget 
+**Approach:** The main objective is to complete the project with in the schedule time and in estimated budget.
 
 <hr/>
 
