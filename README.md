@@ -62,7 +62,7 @@
 * 3.8 Testing
 
 #### 4. Monitoring and Controlling
-* 4.1 Checking for issues
+* 4.1 Checking for the issues
 
 #### 5. Closing
 * 5.1 Review
@@ -71,8 +71,8 @@
      
 ### Schedule
   * Start Date: 05/26/2021 
-  * End Date:  10/08/2021
-  * Duration:  14 weeks
+  * End Date: 10/08/2021
+  * Duration: 14 weeks
   
   <img src="/schedule/Updated.PNG" alt="Schedule1"/>
     
