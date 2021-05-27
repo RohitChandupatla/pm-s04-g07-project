@@ -14,28 +14,12 @@
 
 ### Our Team
 
-  * Akanksha Sudhagoni 
-  
-  
-  <img src="images/Akanksha.jpg" alt="drawing" width="180" style="border-radius:50%" /> <br/>
-
-
-  * Sri Sathya Mamidala 
-  
-
-  <img src="images/sathya.jpeg" alt="drawing" width="180" style="border-radius:50%" />  <br/>
-
-
-  * Rohit Reddy Chandupatla  
-  
-   
-   <img src="images/Rohit.jpg" alt="drawing" width="180" style="border-radius:50%" /> <br/>
-
-
-  * Ajay Nelluri  
-  
-
-  <img src="images/Ajay.jfif" alt="drawing" width="180" style="border-radius:50%" /> <br/>
+  <p float="left">
+  <img src="images/Akanksha.jpg" width="100" />
+  <img src="images/Rohit.jpg" width="100" /> 
+  <img src="images/sathya.jpeg" width="100" />
+  <img src="images/Ajay.jfif" width="100" />
+</p>
 
 ### Project Charter
   - [Click here to view our Project Charter](/scope/Charter.md)
