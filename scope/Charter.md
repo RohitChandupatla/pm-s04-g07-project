@@ -6,7 +6,7 @@
 
 <hr/>
 
-**Budget Information:** Total Value: $80000     Project Cost: $64750    Profit:$15250
+**Budget Information:** Total Value: $80000  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Project Cost: $64750  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Profit:$15250
 
 <hr/>
 
