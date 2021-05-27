@@ -32,7 +32,7 @@
    <img src="images/Rohit.jpg" alt="drawing" width="180" style="border-radius:50%" /> <br/>
 
 
-  * Ajay Nelluri  
+  * Ajay Kumar Nelluri  
   
 
   <img src="images/Ajay.jfif" alt="drawing" width="180" style="border-radius:50%" /> <br/>
