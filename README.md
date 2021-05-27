@@ -14,28 +14,25 @@
 
 ### Our Team
 
-  * Akanksha Sudhagoni 
+* Akanksha Sudhagoni 
   
-  
-  <img src="images/Akanksha.jpg" alt="drawing" width="180" style="border-radius:50%" /> <br/>
-
-
-  * Sri Sathya Mamidala 
+<img src="images/Akanksha.jpg" alt="drawing" width="150" height ="200" style="border-radius:50%" />
   
 
-  <img src="images/sathya.jpeg" alt="drawing" width="150" style="border-radius:50%" />  <br/>
-
-
-  * Rohit Reddy Chandupatla  
+* Sri Sathya Mamidala 
   
+ <img src="images/sathya.jpeg" alt="drawing" width="150" height ="200" style="border-radius:50%" />
+  
+
+* Rohit Reddy Chandupatla  
+  
+  <img src="images/Rohit.jpg" alt="drawing" width="150" height ="200" style="border-radius:50%" />
    
-   <img src="images/Rohit.jpg" alt="drawing" width="150" style="border-radius:50%" /> <br/>
 
-
-  * Ajay Nelluri  
+* Ajay Nelluri  
   
-
-  <img src="images/Ajay.jfif" alt="drawing" width="150" style="border-radius:50%" /> <br/>
+<img src="images/Ajay.jfif" alt="drawing" width="150" height ="200" style="border-radius:50%" />
+  
 
 ### Project Charter
   - [Click here to view our Project Charter](/scope/Charter.md)
