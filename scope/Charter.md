@@ -1,4 +1,4 @@
-**Project Title:** Travel and Tourism Management <br>
+**Project Title:** Travel and Tourism Management
 
 <hr/>
 
@@ -21,6 +21,7 @@
 **Approach:** The main objective is to complete the project on time and on budget 
 
 <hr/>
+
 
 | Name and Signature | Role | Contact Information |
 | ------------------ | ---- | ------------------- |
