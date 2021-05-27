@@ -15,25 +15,25 @@
   * Akanksha Sudhagoni 
   
   
-  <img src="Akanksha.jpg" alt="drawing" width="150" style="border-radius:60%" /> <br/>
+  <img src="images/Akanksha.jpg" alt="drawing" width="150" style="border-radius:50%" /> <br/>
 
 
   * Sri Sathya Mamidala 
   
 
-  <img src="sathya.jpeg" alt="drawing" width="150" style="border-radius:60%" />  <br/>
+  <img src="images/sathya.jpeg" alt="drawing" width="150" style="border-radius:50%" />  <br/>
 
 
   * Rohit Reddy Chandupatla  
   
    
-   <img src="Rohit.jpg" alt="drawing" width="150" style="border-radius:60%" /> <br/>
+   <img src="images/Rohit.jpg" alt="drawing" width="150" style="border-radius:50%" /> <br/>
 
 
   * Ajay Nelluri  
   
 
-  <img src="Ajay.jfif" alt="drawing" width="150" style="border-radius:60%" /> <br/>
+  <img src="images/Ajay.jfif" alt="drawing" width="150" style="border-radius:50%" /> <br/>
 
 ### Project Charter
   - [Click here to view our Project Charter](/scope/Charter.md)
