@@ -10,7 +10,7 @@
 ### Our Project 
   ##   Tourism and Travel Management 
    
-   ##### <br> <p> This web application allows users to book tickets to desired destinations and and guide them to find the best places to visit. Users can search their tickets with different prices from high to low or low to high satisfying their needs. </p>
+    <br> <p> This web application allows users to book tickets to desired destinations and and guide them to find the best places to visit. Users can search their tickets with different prices from high to low or low to high satisfying their needs. </p>
 
 ### Our Team
 
@@ -70,8 +70,8 @@
 
      
 ### Schedule
-  * Start Date: 6/26/2021 
-  * End Date:  9/14/2021
+  * Start Date: 05/26/2021 
+  * End Date:  10/08/2021
   * Duration:  14 weeks
   
   <img src="/schedule/Updated.PNG" alt="Schedule1"/>
