@@ -43,13 +43,13 @@
 * 1.1 Identify Stakeholders
 * 1.2 Objectives
 * 1.3 Develop charter
-* 1.4 Approvals
+* 1.4 Approval
 
 #### 2. Planning
 * 2.1 Develop project plans
 * 2.2 Budget Estimation
 * 2.3 Service Line Agreements
-* 2.4 Approvals
+* 2.4 Approval
 
 #### 3. Execution
 * 3.1 Gather Requirements
@@ -68,15 +68,15 @@
 
 ### Schedule
   * Start Date: 5/26/2021 
-  * End Date:  10/8/2021
-  * Duration:  14 weeks
+  * End Date: 10/8/2021
+  * Duration: 14 weeks
   
   <img src="/schedule/schedule.PNG" alt="Schedule1"/>
     
 ### Budget
      1. Total Project Value: $80,000 
      2. Total Project Cost: $64,750 
-     3. Estimated Profit:  $15,250 
+     3. Estimated Profit: $15,250 
 
 <img src="/Budget/Budget.PNG" alt="Project Budget"/>
 
