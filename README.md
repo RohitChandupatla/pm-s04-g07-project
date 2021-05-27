@@ -7,8 +7,8 @@
   * Schedule
   * Budget 
 
-### Our Project
-  * Tourism and Travel Management 
+### Our Project 
+  ## * Tourism and Travel Management 
    <br> <p> This web application allows users to book tickets to desired destinations and and guide them to find the best places to visit. Users can search their tickets with different prices from high to low or low to high satisfying their needs. </p>
 
 ### Our Team
@@ -68,7 +68,6 @@
 * 5.2 Completion
 
 ### Schedule
-<<<<<<< HEAD
   * Start Date: 6/26/2021 
   * End Date:  9/14/2021
   * Duration:  14 weeks
@@ -101,11 +100,6 @@
      1. Total cost for trip
      2. cost after applying coupons
      3. Final Budget
-=======
-  * Start Date: 5/26/2021 
-  * End Date: 10/8/2021
-  * Duration: 14 weeks
->>>>>>> 8c0f2d9bb62fc1d65d265d3c9386cbddf2978a24
   
   <img src="/schedule/Updated.PNG" alt="Schedule1"/>
     
