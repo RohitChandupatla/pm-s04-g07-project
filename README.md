@@ -68,11 +68,35 @@
 * 5.1 Review
 * 5.2 Completion
 
+### Scope Suggestions
+   * Tourist Locations
+   1. places to visit
+   2. Motels at that locations
+   
+  * Transportations
+    1. Roadway with prices
+    2. Railway with prices
+    3. Airways with prices
+   
+  * Services and purposes
+    1. Holidays
+    2. Regular Days
+    3. Business Days
+
+  * Offer and Deals
+    1. Weekend offers
+    2. Family packages
+    
+  * Budgets
+     1. Total cost for trip
+     2. cost after applying coupons
+     3. Final Budget
+     
 ### Schedule
   * Start Date: 6/26/2021 
   * End Date:  9/14/2021
   * Duration:  14 weeks
-
+  
   <img src="/schedule/Updated.PNG" alt="Schedule1"/>
     
 ### Budget
