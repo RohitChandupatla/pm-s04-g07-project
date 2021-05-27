@@ -27,7 +27,7 @@
 | ------------------ | ---- | ------------------- |
 | Akanksha Sudhagoni | Project Manager | S542046@nwmissouri.edu |
 | Sri Sathya Mamidala | Scrum Master | S542298@nwmissouri.edu |
-| Rohit reddy Chandupatla | Designer | S542423@nwmissouri.edu |
+| Rohit Reddy Chandupatla | Designer | S542423@nwmissouri.edu |
 | Ajay Kumar Nelluri | Developer| S543773@nwmissouri.edu|
 
 **Signatures:**
