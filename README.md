@@ -73,35 +73,6 @@
   * End Date:  9/14/2021
   * Duration:  14 weeks
 
-### Budget
-   * The total project value is around $20000 for the project, for Initial relase we are expecting $10000, Once the project is completed the total budget will be $20K
-   *  Twenty Thousand Dollars
-   *  Cost estimate image
-
-### Scope Suggestions
-   * Tourist Locations
-   1. places to visit
-   2. Motels at that locations
-   
-  * Transportations
-    1. Roadway with prices
-    2. Railway with prices
-    3. Airways with prices
-   
-  * Services and purposes
-    1. Holidays
-    2. Regular Days
-    3. Business Days
-
-  * Offer and Deals
-    1. Weekend offers
-    2. Family packages
-    
-  * Budgets
-     1. Total cost for trip
-     2. cost after applying coupons
-     3. Final Budget
-  
   <img src="/schedule/Updated.PNG" alt="Schedule1"/>
     
 ### Budget
