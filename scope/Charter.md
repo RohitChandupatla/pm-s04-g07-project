@@ -14,6 +14,10 @@
 
 <hr/>
 
+**Risks and Issues:** Global Travelling and accomodation information needed to build the application and more teams has to be involved in the implementation.
+
+<hr/>
+
 **Success Criteria:** To create a platform where to make people lifes easier to travel around the globe. 
 
 <hr/>
