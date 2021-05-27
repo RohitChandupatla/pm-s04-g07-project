@@ -8,7 +8,7 @@
   * Budget 
 
 ### Our Project 
-  ## * Tourism and Travel Management 
+  ##  Tourism and Travel Management 
    
    ##### <br> <p> This web application allows users to book tickets to desired destinations and and guide them to find the best places to visit. Users can search their tickets with different prices from high to low or low to high satisfying their needs. </p>
 
