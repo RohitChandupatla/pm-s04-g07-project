@@ -107,7 +107,7 @@
   * Duration: 14 weeks
 >>>>>>> 8c0f2d9bb62fc1d65d265d3c9386cbddf2978a24
   
-  <img src="/schedule/schedule.PNG" alt="Schedule1"/>
+  <img src="/schedule/Updated.PNG" alt="Schedule1"/>
     
 ### Budget
      1. Total Project Value: $80,000 
