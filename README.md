@@ -1,3 +1,4 @@
+# pm-s03-g04-project
 ## Table of contents
   * Our Project 
   * Our Team
@@ -50,7 +51,7 @@
   * Duration:  14 weeks
 
 ### Budget
-   * The total project value is around $20000 for the project, for Initial relase we are expecting $10000, Once the project is completed  the total budget will be $20K
+   * The total project value is around $20000 for the project, for Initial relase we are expecting $10000, Once the project is completed the total budget will be $20K
    *  Twenty Thousand Dollars
    *  Cost estimate image
 
