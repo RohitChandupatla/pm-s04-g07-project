@@ -1,4 +1,4 @@
-# pm-s03-g04-project
+# pm-s03-g07-project
 ## Table of contents
   * Our Project 
   * Our Team
