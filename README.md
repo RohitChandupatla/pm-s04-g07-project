@@ -17,7 +17,7 @@
   * Akanksha Sudhagoni 
   
   
-  <img src="images/Akanksha.jpg" alt="drawing" width="150" style="border-radius:50%" /> <br/>
+  <img src="images/Akanksha.jpg" alt="drawing" width="180" style="border-radius:50%" /> <br/>
 
 
   * Sri Sathya Mamidala 
