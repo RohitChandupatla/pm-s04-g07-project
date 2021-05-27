@@ -1,11 +1,11 @@
 # pm-s04-g07-project
 ## Table of contents
-  * Our Project  
-  * Our Team 
-  * Project Charter 
-  * Scope 
-  * Schedule 
-  * Budget 
+   * Our Project 
+   * Our Team 
+   * Project Charter
+   * Scope 
+   * Schedule 
+   * Budget 
 
 ### Our Project 
   ##   Tourism and Travel Management 
@@ -14,12 +14,28 @@
 
 ### Our Team
 
-  <p float="left">
-  <img src="images/Akanksha.jpg" height="300" width="300" />
-  <img src="images/Rohit.jpg" height="300" width="300" /> 
-  <img src="images/sathya.jpeg" height="300" width="300" />
-  <img src="images/Ajay.jfif" height="300" width="300" />
-</p>
+  * Akanksha Sudhagoni 
+  
+  
+  <img src="images/Akanksha.jpg" alt="drawing" width="180" style="border-radius:50%" /> <br/>
+
+
+  * Sri Sathya Mamidala 
+  
+
+  <img src="images/sathya.jpeg" alt="drawing" width="180" style="border-radius:50%" />  <br/>
+
+
+  * Rohit Reddy Chandupatla  
+  
+   
+   <img src="images/Rohit.jpg" alt="drawing" width="180" style="border-radius:50%" /> <br/>
+
+
+  * Ajay Nelluri  
+  
+
+  <img src="images/Ajay.jfif" alt="drawing" width="180" style="border-radius:50%" /> <br/>
 
 ### Project Charter
   - [Click here to view our Project Charter](/scope/Charter.md)
