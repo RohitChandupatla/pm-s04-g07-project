@@ -8,31 +8,34 @@
   * Budget 
 
 ### Our Project 
-  ##  Tourism and Travel Management 
+  ##  * Tourism and Travel Management 
    
    ##### <br> <p> This web application allows users to book tickets to desired destinations and and guide them to find the best places to visit. Users can search their tickets with different prices from high to low or low to high satisfying their needs. </p>
 
 ### Our Team
 
-* Akanksha Sudhagoni 
+  * Akanksha Sudhagoni 
   
-<img src="images/Akanksha.jpg" alt="drawing" width="150" height ="200" style="border-radius:50%" />
+  
+  <img src="images/Akanksha.jpg" alt="drawing" width="180" style="border-radius:50%" /> <br/>
+
+
+  * Sri Sathya Mamidala 
   
 
-* Sri Sathya Mamidala 
-  
- <img src="images/sathya.jpeg" alt="drawing" width="150" height ="200" style="border-radius:50%" />
-  
+  <img src="images/sathya.jpeg" alt="drawing" width="180" style="border-radius:50%" />  <br/>
 
-* Rohit Reddy Chandupatla  
+
+  * Rohit Reddy Chandupatla  
   
-  <img src="images/Rohit.jpg" alt="drawing" width="150" height ="200" style="border-radius:50%" />
    
+   <img src="images/Rohit.jpg" alt="drawing" width="180" style="border-radius:50%" /> <br/>
 
-* Ajay Nelluri  
+
+  * Ajay Nelluri  
   
-<img src="images/Ajay.jfif" alt="drawing" width="150" height ="200" style="border-radius:50%" />
-  
+
+  <img src="images/Ajay.jfif" alt="drawing" width="180" style="border-radius:50%" /> <br/>
 
 ### Project Charter
   - [Click here to view our Project Charter](/scope/Charter.md)
