@@ -15,10 +15,10 @@
 ### Our Team
 
   <p float="left">
-  <img src="images/Akanksha.jpg" width="100" />
-  <img src="images/Rohit.jpg" width="100" /> 
-  <img src="images/sathya.jpeg" width="100" />
-  <img src="images/Ajay.jfif" width="100" />
+  <img src="images/Akanksha.jpg" height="150" width="150" />
+  <img src="images/Rohit.jpg" height="150" width="150" /> 
+  <img src="images/sathya.jpeg" height="150" width="150" />
+  <img src="images/Ajay.jfif" height="150" width="150" />
 </p>
 
 ### Project Charter
