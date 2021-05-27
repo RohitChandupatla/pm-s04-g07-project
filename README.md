@@ -43,13 +43,13 @@
 * 1.1 Identify Stakeholders
 * 1.2 Objectives
 * 1.3 Develop charter
-* 1.4 Approvals
+* 1.4 Approval
 
 #### 2. Planning
 * 2.1 Develop project plans
 * 2.2 Budget Estimation
 * 2.3 Service Line Agreements
-* 2.4 Approvals
+* 2.4 Approval
 
 #### 3. Execution
 * 3.1 Gather Requirements
