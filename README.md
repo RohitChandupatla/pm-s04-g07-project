@@ -36,14 +36,14 @@
   <img src="Ajay.jfif" alt="drawing" width="150" style="border-radius:50%" /> <br/>
 
 ### Project Charter
-  - [Click here to view our Project Charter](/Charter.md)
+  - [Click here to view our Project Charter](/scope/Charter.md)
 
 ### Scope
 #### 1. Intiating
 * 1.1 Identify Stakeholders
-* 1.2 Define objectives
+* 1.2 Objectives
 * 1.3 Develop charter
-* 1.4 Taking approval for charter
+* 1.4 Approvals
 
 #### 2. Planning
 * 2.1 Develop project plans
