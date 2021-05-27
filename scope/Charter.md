@@ -6,7 +6,7 @@
 
 <hr/>
 
-**Budget Information:** $80,000
+**Budget Information:** Total Value: $80000     Project Cost: $64750    Profit:$15250
 
 <hr/>
 
