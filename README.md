@@ -68,16 +68,6 @@
 * 5.1 Review
 * 5.2 Completion
 
-### Schedule
-  * Start Date: 6/26/2021 
-  * End Date:  9/14/2021
-  * Duration:  14 weeks
-
-### Budget
-   * The total project value is around $20000 for the project, for Initial relase we are expecting $10000, Once the project is completed the total budget will be $20K
-   *  Twenty Thousand Dollars
-   *  Cost estimate image
-
 ### Scope Suggestions
    * Tourist Locations
    1. places to visit
@@ -101,6 +91,11 @@
      1. Total cost for trip
      2. cost after applying coupons
      3. Final Budget
+     
+### Schedule
+  * Start Date: 6/26/2021 
+  * End Date:  9/14/2021
+  * Duration:  14 weeks
   
   <img src="/schedule/Updated.PNG" alt="Schedule1"/>
     
