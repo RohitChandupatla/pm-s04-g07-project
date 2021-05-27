@@ -34,5 +34,5 @@
 
 ### Akanksha Sudhagoni
 ### Sri Sathya Mamidala
-### ROhit Reddy Chandupatla
+### Rohit Reddy Chandupatla
 ### Ajay Kumar Nelluri
