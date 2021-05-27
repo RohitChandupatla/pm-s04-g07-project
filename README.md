@@ -68,8 +68,8 @@
 
 ### Schedule
   * Start Date: 5/26/2021 
-  * End Date:  10/8/2021
-  * Duration:  14 weeks
+  * End Date: 10/8/2021
+  * Duration: 14 weeks
   
   <img src="/schedule/schedule.PNG" alt="Schedule1"/>
     
