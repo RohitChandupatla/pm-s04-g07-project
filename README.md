@@ -12,7 +12,8 @@
 ### Our Project 
   ##   Tourism and Travel Management 
    
-  <P> This web application allows users to book tickets to desired destinations and and guide them to find the best places to visit. Users can search their tickets with different prices from high to low or low to high satisfying their needs. </p>
+  <P> This web application allows users to book tickets to desired destinations and and guide them to find the best places to visit. Users can search their tickets with different prices from high to low or low to high satisfying their needs.
+      Here users can also be able to make changes to the confirmed reservations/bookings based on their travel plans</p>
 
 ### Our Team
 
@@ -44,13 +45,13 @@
 
 ### Scope
 #### 1. Intiating
-* 1.1 Identify Stakeholders
+* 1.1 Stakeholders Identification
 * 1.2 Objectives
-* 1.3 Develop charter
+* 1.3 Blueprint
 * 1.4 Approval
 
 #### 2. Planning
-* 2.1 Develop project plans
+* 2.1 Project plans
 * 2.2 Budget Estimation
 * 2.3 Service Line Agreements
 * 2.4 Approval
@@ -60,11 +61,11 @@
 * 3.2 Hardware and software resources
 * 3.3 Design template for web app
 * 3.5 Developing front end and backend
-* 3.6 Database/cloud connection
+* 3.6 Database/cloud Integration
 * 3.8 Testing
 
 #### 4. Monitoring and Controlling
-* 4.1 Checking for the issues
+* 4.1 Checking for the issues/ debugging
 
 #### 5. Closing
 * 5.1 Review
