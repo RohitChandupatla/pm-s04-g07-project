@@ -59,7 +59,7 @@
 #### 3. Execution
 * 3.1 Gather Requirements
 * 3.2 Hardware and software resources
-* 3.3 Design template for web app
+* 3.3 Template for web app
 * 3.5 Developing front end and backend
 * 3.6 Database/cloud Integration
 * 3.8 Testing
@@ -83,6 +83,7 @@
      1. Total Project Value: $80,000 
      2. Total Project Cost: $64,750 
      3. Estimated Profit: $15,250 
+     4. Hardware and Software resources budget will be part of SOW
 
 <img src="/Budget/Budget.PNG" alt="Project Budget"/>
 
