@@ -10,19 +10,19 @@
 
 <hr/>
 
-**Project Objectives:** The major objective of the project is to implement a application where users can able to manage the Travel plans as they wish.
+**Project Summary:** The major objective of the project is to implement a application where users can able to manage the Travel plans as they wish.
 
 <hr/>
 
-**Risks and Issues:** Global Travelling and accomodation information needed to build the application and more teams has to be involved in the implementation.
+**Risks Associated:** Global Travelling and accomodation information needed to build the application and more teams has to be involved in the implementation.
 
 <hr/>
 
-**Success Criteria:** To create a platform where to make people lifes easier to travel around the globe. 
+**Goal:** To create a platform where to make people lifes easier to travel around the globe. 
 
 <hr/>
 
-**Approach:** The main objective is to complete the project with in the schedule time and in estimated budget.
+**Approach:** The intention is to complete the project with in the schedule time and in estimated budget without any client escalations
 
 <hr/>
 
