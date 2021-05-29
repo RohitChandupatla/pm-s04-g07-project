@@ -87,3 +87,5 @@
 
 <img src="/Budget/Budget.PNG" alt="Project Budget"/>
 
+<img src="/Budget/Image.PNG" alt="Project Budget1"/>
+
