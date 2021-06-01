@@ -29,7 +29,7 @@
   <img src="images/sathya.jpeg" alt="drawing" width="180" style="border-radius:50%" />  <br/>
 
 
-  * Rohit Reddy Chandupatla  
+  * Rohit Reddy Chandupatla
   
    
    <img src="images/Rohit.jpg" alt="drawing" width="180" style="border-radius:50%" /> <br/>
