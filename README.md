@@ -1,7 +1,7 @@
 # pm-s04-g07-project
 
 | Table of contents |
-|-------------------|
+|------------------|
 | Our Project       |
 | Our Team          |
 | Project Charter   |
@@ -29,7 +29,7 @@
   <img src="images/sathya.jpeg" alt="drawing" width="180" style="border-radius:50%" />  <br/>
 
 
-  * Rohit Reddy Chandupatla  
+  * Rohit Reddy Chandupatla
   
    
    <img src="images/Rohit.jpg" alt="drawing" width="180" style="border-radius:50%" /> <br/>
@@ -48,13 +48,13 @@
 * 1.1 Stakeholders Identification
 * 1.2 Objectives
 * 1.3 Blueprint
-* 1.4 Approval
+* 1.4 Approvals
 
 #### 2. Planning
 * 2.1 Project plans
 * 2.2 Budget Estimation
 * 2.3 Service Line Agreements
-* 2.4 Approval
+* 2.4 Approvals
 
 #### 3. Execution
 * 3.1 Gather Requirements
