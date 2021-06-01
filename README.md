@@ -48,7 +48,7 @@
 * 1.1 Stakeholders Identification
 * 1.2 Objectives
 * 1.3 Blueprint
-* 1.4 Approval
+* 1.4 Approvals
 
 #### 2. Planning
 * 2.1 Project plans
