@@ -54,7 +54,7 @@
 * 2.1 Project plans
 * 2.2 Budget Estimation
 * 2.3 Service Line Agreements
-* 2.4 Approval
+* 2.4 Approvals
 
 #### 3. Execution
 * 3.1 Gather Requirements
