@@ -50,6 +50,8 @@ Here users can also be able to make changes to the confirmed reservations/bookin
 
 ### [Project Charter](/scope/Charter.md)
 
+---
+
 ### [Scope](https://github.com/Rohitreddz/pm-s04-g07-project/tree/main/scope) <br/>
 
 ---
