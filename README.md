@@ -21,24 +21,32 @@
   
   
   <img src="images/Akanksha.jpg" alt="drawing" width="180" style="border-radius:50%" /> <br/>
+  
+  ---
 
 
   * Sri Sathya Mamidala
   
 
   <img src="images/sathya.jpeg" alt="drawing" width="180" style="border-radius:50%" />  <br/>
+  
+  ---
 
 
   * Rohit Reddy Chandupatla
   
    
    <img src="images/Rohit.jpg" alt="drawing" width="180" style="border-radius:50%" /> <br/>
+   
+   ---
 
 
   * Ajay Kumar Nelluri
   
 
   <img src="images/Ajay.jfif" alt="drawing" width="180" style="border-radius:50%" /> <br/>
+  
+  ---
 
 ### [Project Charter](/scope/Charter.md)
 
