@@ -40,11 +40,9 @@
 
   <img src="images/Ajay.jfif" alt="drawing" width="180" style="border-radius:50%" /> <br/>
 
-### Project Charter
-[View Project Charter](/scope/Charter.md)
+### [Project Charter](/scope/Charter.md)
 
-### Scope
-[View ](https://github.com/Rohitreddz/pm-s04-g07-project/tree/main/scope)<br/>
+### [Scope](https://github.com/Rohitreddz/pm-s04-g07-project/tree/main/scope)<br/>
 ### Work Breakdown Structure
 
 #### 1. Intiating
@@ -76,15 +74,17 @@
 
      
 ### Schedule
-[View ](https://github.com/Rohitreddz/pm-s04-g07-project/tree/main/schedule)  
+
   * Start Date: 05/26/2021
   * End Date: 08/13/2021
   * Duration: 14 weeks
   
   <img src="/schedule/Updated.PNG" alt="Schedule1"/>
+  
+  [View Schedule](https://github.com/Rohitreddz/pm-s04-g07-project/tree/main/schedule)  
     
 ### Budget
-[View](https://github.com/Rohitreddz/pm-s04-g07-project/tree/main/Budget)
+
      1. Total Project Value: $80,000 
      2. Total Project Cost: $64,750 
      3. Estimated Profit: $15,250 
@@ -93,5 +93,7 @@
 <img src="/Budget/Budget.PNG" alt="Project Budget"/>
 
 <img src="/Budget/Image.PNG" alt="Project Budget1"/>
+
+[View Budget](https://github.com/Rohitreddz/pm-s04-g07-project/tree/main/Budget)
 
 ### Reference : [Project Charter](https://www.stakeholdermap.com/project-templates/sample-project-charter.html)
