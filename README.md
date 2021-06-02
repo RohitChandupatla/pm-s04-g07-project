@@ -80,7 +80,7 @@
   
   <img src="/schedule/Updated.PNG" alt="Schedule1"/>
     
-### [View Budget] (https://github.com/Rohitreddz/pm-s04-g07-project/tree/main/Budget)
+### [View Budget](https://github.com/Rohitreddz/pm-s04-g07-project/tree/main/Budget)
      1. Total Project Value: $80,000 
      2. Total Project Cost: $64,750 
      3. Estimated Profit: $15,250 
