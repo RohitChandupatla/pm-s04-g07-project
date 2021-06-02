@@ -40,9 +40,9 @@
 
   <img src="images/Ajay.jfif" alt="drawing" width="180" style="border-radius:50%" /> <br/>
 
-### [Project Charter](/scope/Charter.md)
+### [View Project Charter](/scope/Charter.md)
 
-### [Scope](https://github.com/Rohitreddz/pm-s04-g07-project/tree/main/scope)
+### [View Scope](https://github.com/Rohitreddz/pm-s04-g07-project/tree/main/scope)
 ### Work Breakdown Structure
 
 #### 1. Intiating
@@ -73,14 +73,14 @@
 * 5.2 Completion
 
      
-### [Schedule](https://github.com/Rohitreddz/pm-s04-g07-project/tree/main/schedule)  
+### [View Schedule](https://github.com/Rohitreddz/pm-s04-g07-project/tree/main/schedule)  
   * Start Date: 05/26/2021
   * End Date: 08/13/2021
   * Duration: 14 weeks
   
   <img src="/schedule/Updated.PNG" alt="Schedule1"/>
     
-### Budget
+### [View Budget] (https://github.com/Rohitreddz/pm-s04-g07-project/tree/main/Budget)
      1. Total Project Value: $80,000 
      2. Total Project Cost: $64,750 
      3. Estimated Profit: $15,250 
