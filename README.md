@@ -1,4 +1,5 @@
-# pm-s04-g07-project
+# Tourism and Travel Management 
+## pm-s04-g07-project
 
 | Table of contents |
 |------------------|
@@ -10,10 +11,9 @@
 | Budget            |
 
 ### Our Project 
-  ##   Tourism and Travel Management 
-   
-  <P> This web application allows users to book tickets to desired destinations and and guide them to find the best places to visit. Users can search their tickets with different prices from high to low or low to high satisfying their needs.
+<P> This web application allows users to book tickets to desired destinations and and guide them to find the best places to visit. Users can search their tickets with different prices from high to low or low to high satisfying their needs.
       Here users can also be able to make changes to the confirmed reservations/bookings based on their travel plans</p>
+ ---
 
 ### Our Team
 
@@ -50,7 +50,9 @@
 
 ### [Project Charter](/scope/Charter.md)
 
-### [Scope](https://github.com/Rohitreddz/pm-s04-g07-project/tree/main/scope)<br/>
+### [Scope](https://github.com/Rohitreddz/pm-s04-g07-project/tree/main/scope) <br/>
+
+---
 ### Work Breakdown Structure
 
 #### 1. Intiating
@@ -80,6 +82,8 @@
 * 5.1 Review
 * 5.2 Completion
 
+---
+
      
 ### Schedule
 
@@ -90,6 +94,8 @@
   <img src="/schedule/Updated.PNG" alt="Schedule1"/>
   
   [View Schedule](https://github.com/Rohitreddz/pm-s04-g07-project/tree/main/schedule)  
+  
+  ---
     
 ### Budget
 
@@ -103,5 +109,7 @@
 <img src="/Budget/Image.PNG" alt="Project Budget1"/>
 
 [View Budget](https://github.com/Rohitreddz/pm-s04-g07-project/tree/main/Budget)
+
+---
 
 ### Reference : [Project Charter](https://www.stakeholdermap.com/project-templates/sample-project-charter.html)
