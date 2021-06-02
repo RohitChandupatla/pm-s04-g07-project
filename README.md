@@ -17,7 +17,7 @@ Here users can also be able to make changes to the confirmed reservations/bookin
 ---
 ### Our Team
 
-  * Akanksha Sudhagoni 
+  * [Akanksha Sudhagoni](https://github.com/S542046)  
   
   
   <img src="images/Akanksha.jpg" alt="drawing" width="180" style="border-radius:50%" /> <br/>
@@ -25,7 +25,7 @@ Here users can also be able to make changes to the confirmed reservations/bookin
   ---
 
 
-  * Sri Sathya Mamidala
+  * [Sri Sathya Mamidala](https://github.com/srisathyamamidala)
   
 
   <img src="images/sathya.jpeg" alt="drawing" width="180" style="border-radius:50%" />  <br/>
@@ -33,7 +33,7 @@ Here users can also be able to make changes to the confirmed reservations/bookin
   ---
 
 
-  * Rohit Reddy Chandupatla
+  * [Rohit Reddy Chandupatla](https://github.com/Rohitreddz)
   
    
    <img src="images/Rohit.jpg" alt="drawing" width="180" style="border-radius:50%" /> <br/>
@@ -41,7 +41,7 @@ Here users can also be able to make changes to the confirmed reservations/bookin
    ---
 
 
-  * Ajay Kumar Nelluri
+  * [Ajay Kumar Nelluri](https://github.com/Ajay-Nelluri)
   
 
   <img src="images/Ajay.jfif" alt="drawing" width="180" style="border-radius:50%" /> <br/>
