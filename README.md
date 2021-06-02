@@ -118,6 +118,6 @@ Here users can also be able to make changes to the confirmed reservations/bookin
 [Project Charter](https://www.stakeholdermap.com/project-templates/sample-project-charter.html)<br/>
 [WBS](https://www.workbreakdownstructure.com/)<br/>
 [Project Scope](https://www.wrike.com/project-management-guide/faq/what-is-scope-in-project-management/)<br/>
-[Sample Reference](https://www.tripoto.com/)<br/>
+[Project Sample Reference](https://www.tripoto.com/)<br/>
 
 
