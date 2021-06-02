@@ -40,10 +40,7 @@
 
   <img src="images/Ajay.jfif" alt="drawing" width="180" style="border-radius:50%" /> <br/>
 
-### Project Charter
-  - [Click here to view our Project Charter](/scope/Charter.md)
-
-### 
+### [Project Charter](/scope/Charter.md)
 
 ### [Scope](https://github.com/Rohitreddz/pm-s04-g07-project/tree/main/scope)
 
