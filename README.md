@@ -23,7 +23,7 @@
   <img src="images/Akanksha.jpg" alt="drawing" width="180" style="border-radius:50%" /> <br/>
 
 
-  * Sri Sathya Mamidala 
+  * Sri Sathya Mamidala
   
 
   <img src="images/sathya.jpeg" alt="drawing" width="180" style="border-radius:50%" />  <br/>
@@ -35,7 +35,7 @@
    <img src="images/Rohit.jpg" alt="drawing" width="180" style="border-radius:50%" /> <br/>
 
 
-  * Ajay Kumar Nelluri  
+  * Ajay Kumar Nelluri
   
 
   <img src="images/Ajay.jfif" alt="drawing" width="180" style="border-radius:50%" /> <br/>
