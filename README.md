@@ -1,7 +1,8 @@
-# pm-s04-g07-project
+# Tourism and Travel Management 
+## pm-s04-g07-project
 
 | Table of contents |
-|------------------|
+|-------------------|
 | Our Project       |
 | Our Team          |
 | Project Charter   |
@@ -10,40 +11,50 @@
 | Budget            |
 
 ### Our Project 
-  ##   Tourism and Travel Management 
-   
-  <P> This web application allows users to book tickets to desired destinations and and guide them to find the best places to visit. Users can search their tickets with different prices from high to low or low to high satisfying their needs.
-      Here users can also be able to make changes to the confirmed reservations/bookings based on their travel plans</p>
+<P> This web application allows users to book tickets to desired destinations and and guide them to find the best places to visit. Users can search their tickets with different prices from high to low or low to high satisfying their needs.<br/>
+Here users can also be able to make changes to the confirmed reservations/bookings based on their travel plans</p>
 
+---
 ### Our Team
 
-  * Akanksha Sudhagoni 
+  * [Akanksha Sudhagoni](https://github.com/S542046)  
   
   
   <img src="images/Akanksha.jpg" alt="drawing" width="180" style="border-radius:50%" /> <br/>
+  
+  ---
 
 
-  * Sri Sathya Mamidala
+  * [Sri Sathya Mamidala](https://github.com/srisathyamamidala)
   
 
   <img src="images/sathya.jpeg" alt="drawing" width="180" style="border-radius:50%" />  <br/>
+  
+  ---
 
 
-  * Rohit Reddy Chandupatla
+  * [Rohit Reddy Chandupatla](https://github.com/Rohitreddz)
   
    
    <img src="images/Rohit.jpg" alt="drawing" width="180" style="border-radius:50%" /> <br/>
+   
+   ---
 
 
-  * Ajay Kumar Nelluri
+  * [Ajay Kumar Nelluri](https://github.com/Ajay-Nelluri)
   
 
   <img src="images/Ajay.jfif" alt="drawing" width="180" style="border-radius:50%" /> <br/>
+  
+  ---
 
-### Project Charter
-  - [Click here to view our Project Charter](/scope/Charter.md)
+### [Project Charter](/scope/Charter.md)
 
-### Scope
+### [Scope](https://github.com/Rohitreddz/pm-s04-g07-project/tree/main/scope) <br/>
+
+---
+### Work Breakdown Structure
+
 #### 1. Intiating
 * 1.1 Stakeholders Identification
 * 1.2 Objectives
@@ -71,15 +82,23 @@
 * 5.1 Review
 * 5.2 Completion
 
+---
+
      
 ### Schedule
+
   * Start Date: 05/26/2021
   * End Date: 08/13/2021
   * Duration: 14 weeks
   
   <img src="/schedule/Updated.PNG" alt="Schedule1"/>
+  
+  [View Schedule](https://github.com/Rohitreddz/pm-s04-g07-project/tree/main/schedule)  
+  
+  ---
     
 ### Budget
+
      1. Total Project Value: $80,000 
      2. Total Project Cost: $64,750 
      3. Estimated Profit: $15,250 
@@ -88,5 +107,9 @@
 <img src="/Budget/Budget.PNG" alt="Project Budget"/>
 
 <img src="/Budget/Image.PNG" alt="Project Budget1"/>
+
+[View Budget](https://github.com/Rohitreddz/pm-s04-g07-project/tree/main/Budget)
+
+---
 
 ### Reference : [Project Charter](https://www.stakeholdermap.com/project-templates/sample-project-charter.html)
