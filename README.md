@@ -89,3 +89,4 @@
 
 <img src="/Budget/Image.PNG" alt="Project Budget1"/>
 
+Reference : [Project Charter](https://www.stakeholdermap.com/project-templates/sample-project-charter.html)
