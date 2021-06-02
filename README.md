@@ -115,8 +115,9 @@ Here users can also be able to make changes to the confirmed reservations/bookin
 ---
 
 ### Reference : 
-[Project Charter](https://www.stakeholdermap.com/project-templates/sample-project-charter.html)
-[WBS](https://www.workbreakdownstructure.com/)
-[Project Scope](https://www.wrike.com/project-management-guide/faq/what-is-scope-in-project-management/)
+[Project Charter](https://www.stakeholdermap.com/project-templates/sample-project-charter.html)<br/>
+[WBS](https://www.workbreakdownstructure.com/)<br/>
+[Project Scope](https://www.wrike.com/project-management-guide/faq/what-is-scope-in-project-management/)<br/>
+[Sample Reference](https://www.tripoto.com/)<br/>
 
 
