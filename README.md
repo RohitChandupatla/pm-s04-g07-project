@@ -43,7 +43,10 @@
 ### Project Charter
   - [Click here to view our Project Charter](/scope/Charter.md)
 
-### Scope
+### 
+
+### [Scope](https://github.com/Rohitreddz/pm-s04-g07-project/tree/main/scope)
+
 #### 1. Intiating
 * 1.1 Stakeholders Identification
 * 1.2 Objectives
@@ -72,7 +75,7 @@
 * 5.2 Completion
 
      
-### Schedule
+### [Schedule](https://github.com/Rohitreddz/pm-s04-g07-project/tree/main/schedule)  
   * Start Date: 05/26/2021
   * End Date: 08/13/2021
   * Duration: 14 weeks
