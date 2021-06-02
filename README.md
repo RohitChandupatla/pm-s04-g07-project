@@ -11,10 +11,10 @@
 | Budget            |
 
 ### Our Project 
-<P> This web application allows users to book tickets to desired destinations and and guide them to find the best places to visit. Users can search their tickets with different prices from high to low or low to high satisfying their needs.
-      Here users can also be able to make changes to the confirmed reservations/bookings based on their travel plans</p>
- ---
+<P> This web application allows users to book tickets to desired destinations and and guide them to find the best places to visit. Users can search their tickets with different prices from high to low or low to high satisfying their needs.<br/>
+Here users can also be able to make changes to the confirmed reservations/bookings based on their travel plans</p>
 
+---
 ### Our Team
 
   * Akanksha Sudhagoni 
